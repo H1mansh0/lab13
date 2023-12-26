@@ -1,6 +1,6 @@
-package com.example.Task2.db;
+package com.example.two.db;
 
-public class Authorization extends Авторизація{
+public class Authorization extends Авторизація {
     public boolean auth(DataBase db) {
         return авторизуватися(db);
     }

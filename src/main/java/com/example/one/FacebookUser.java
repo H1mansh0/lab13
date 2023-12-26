@@ -1,4 +1,4 @@
-package com.example.Task1;
+package com.example.one;
 
 import java.time.LocalDateTime;
 import lombok.Data;

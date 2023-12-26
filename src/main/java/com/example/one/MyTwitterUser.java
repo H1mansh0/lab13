@@ -1,8 +1,8 @@
-package com.example.Task1;
+package com.example.one;
 
 import java.time.LocalDate;
 
-public class MyTwitterUser implements User{
+public class MyTwitterUser implements User {
     private TwitterUser twitterUser;
 
     public MyTwitterUser(TwitterUser twitterUser) {

@@ -1,4 +1,4 @@
-package com.example.Task3;
+package com.example.three;
 
 import lombok.Builder;
 import lombok.ToString;

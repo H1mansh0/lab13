@@ -1,4 +1,4 @@
-package com.example.Task3;
+package com.example.three;
 
 import lombok.SneakyThrows;
 import org.jsoup.Jsoup;

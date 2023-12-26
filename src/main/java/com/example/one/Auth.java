@@ -1,4 +1,4 @@
-package com.example.Task1;
+package com.example.one;
 
 public class Auth {
     public User login() {

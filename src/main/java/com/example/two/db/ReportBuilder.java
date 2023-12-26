@@ -1,4 +1,4 @@
-package com.example.Task2.db;
+package com.example.two.db;
 
 public class ReportBuilder {
     private DataBase db;

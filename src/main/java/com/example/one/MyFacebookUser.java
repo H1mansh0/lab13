@@ -1,8 +1,8 @@
-package com.example.Task1;
+package com.example.one;
 
 import java.time.LocalDate;
 
-public class MyFacebookUser implements User{
+public class MyFacebookUser implements User {
     private FacebookUser facebookUser;
 
     public MyFacebookUser(FacebookUser facebookUser) {
